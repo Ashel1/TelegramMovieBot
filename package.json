@@ -1,0 +1,23 @@
+{
+  "name": "WordWizBot",
+  "version": "1.0.0",
+  "description": "Bot for Telegram, helps improving vocabulary (especially for GRE).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashel1/WordWizBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashel1/WordWizBot/issues"
+  },
+  "homepage": "https://github.com/Ashel1/WordWizBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
